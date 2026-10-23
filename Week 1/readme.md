@@ -1,4 +1,4 @@
-# DG Interns HUB – Week 1 Project README
+# DG Interns HUB – Week 1 Project
 
 ## 1. Project Overview
 
