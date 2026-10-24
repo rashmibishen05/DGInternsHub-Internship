@@ -7,7 +7,7 @@ This folder contains separate writeups documenting the learning process, practic
 
 ### Contents
 
-#### A. TryHackMe Writeups
+#### TryHackMe Writeups
 Create a separate writeup for each of the following rooms:
 
 1. Search Skills
@@ -28,20 +28,6 @@ Each writeup should include:
 - Challenges faced and how they were resolved
 - Key takeaways
 
-#### B. OverTheWire Bandit Writeups
-Create a separate writeup for each completed level from Level 0 to Level 10.
-
-Each writeup should include:
-- Level number
-- Objective
-- Relevant Linux commands
-- Steps followed to solve the challenge
-- Explanation of the solution
-- Screenshot or evidence of completion, where appropriate
-- Lessons learned
-
-**Security Rule:** Never publish Bandit passwords, credentials, or other secrets in writeups or screenshots. Redact sensitive information before sharing.
-
 Document the key concepts learned if this resource is completed.
 
 ### Writeup Format
@@ -59,6 +45,6 @@ Use a consistent structure for every writeup:
 ### Learning Outcome
 The writeups provide a record of hands-on practice, demonstrate understanding of Linux and networking concepts, and help track progress throughout the cybersecurity internship.
 
-**Tools and Platforms:** TryHackMe, OverTheWire Bandit, Kali Linux, Ubuntu Linux, and free networking learning resources.
+**Tools and Platforms:** TryHackMe, Kali Linux, Windows 11 and free networking learning resources.
 
 **Important:** Document only exercises actually completed. Write explanations in your own words and do not copy other learners' solutions.
