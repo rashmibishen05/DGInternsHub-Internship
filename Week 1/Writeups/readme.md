@@ -42,9 +42,6 @@ Each writeup should include:
 
 **Security Rule:** Never publish Bandit passwords, credentials, or other secrets in writeups or screenshots. Redact sensitive information before sharing.
 
-#### C. Optional Learning Resource
-- Cisco Networking Academy – Networking Basics
-
 Document the key concepts learned if this resource is completed.
 
 ### Writeup Format
