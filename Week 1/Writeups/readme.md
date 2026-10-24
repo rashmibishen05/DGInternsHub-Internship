@@ -3,7 +3,7 @@
 ## Week 1 – Lab Setup, Linux and Networking Foundations
 
 ### Objective
-This folder contains separate writeups documenting the learning process, practical exercises, commands, challenges, and key takeaways from TryHackMe and OverTheWire Bandit.
+This folder contains separate writeups documenting the learning process, practical exercises, commands, challenges, and key takeaways from TryHackMe.
 
 ### Contents
 
