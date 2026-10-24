@@ -19,7 +19,7 @@ Create a separate writeup for each of the following rooms:
 7. Pyramid of Pain
 8. Intro to LAN
 
-Each writeup should include:
+#### Each writeup should include:
 - Room name and objective
 - Concepts learned
 - Tasks completed
@@ -29,18 +29,6 @@ Each writeup should include:
 - Key takeaways
 
 Document the key concepts learned if this resource is completed.
-
-### Writeup Format
-Use a consistent structure for every writeup:
-
-1. Title
-2. Objective
-3. Concepts covered
-4. Procedure and commands
-5. Results and observations
-6. Challenges and solutions
-7. Key takeaways
-8. Evidence of completion
 
 ### Learning Outcome
 The writeups provide a record of hands-on practice, demonstrate understanding of Linux and networking concepts, and help track progress throughout the cybersecurity internship.
