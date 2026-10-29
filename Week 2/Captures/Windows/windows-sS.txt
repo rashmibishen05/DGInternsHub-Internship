@@ -1,0 +1,8 @@
+# Nmap 7.99 scan initiated Thu Oct 29 16:54:29 2026 as: /usr/lib/nmap/nmap -sS -oN windows-sS.txt -oX windows-sS.xml 192.168.222.130
+Nmap scan report for 192.168.222.130
+Host is up (0.00076s latency).
+All 1000 scanned ports on 192.168.222.130 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 00:0C:29:36:81:5D (VMware)
+
+# Nmap done at Thu Oct 29 16:54:56 2026 -- 1 IP address (1 host up) scanned in 26.62 seconds

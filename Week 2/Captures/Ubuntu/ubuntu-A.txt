@@ -1,0 +1,21 @@
+# Nmap 7.99 scan initiated Thu Oct 29 15:38:54 2026 as: /usr/lib/nmap/nmap -A -oN ubuntu-A.txt -oX ubuntu-A.xml 192.168.222.128
+Nmap scan report for 192.168.222.128
+Host is up (0.0011s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.58 ((Ubuntu))
+|_http-title: Apache2 Ubuntu Default Page: It works
+|_http-server-header: Apache/2.4.58 (Ubuntu)
+MAC Address: 00:0C:29:AB:09:54 (VMware)
+Device type: general purpose
+Running: Linux 4.X|5.X
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5
+OS details: Linux 4.15 - 5.19
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   1.05 ms 192.168.222.128
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Oct 29 15:39:07 2026 -- 1 IP address (1 host up) scanned in 12.68 seconds
